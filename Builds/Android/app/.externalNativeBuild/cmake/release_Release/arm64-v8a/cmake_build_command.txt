@@ -1,0 +1,23 @@
+Executable : /Users/ericcarmi/Library/Android/sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app
+-B/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app/.externalNativeBuild/cmake/release_Release/arm64-v8a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/Users/ericcarmi/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app/build/intermediates/cmake/release_/release/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/Users/ericcarmi/Library/Android/sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/ericcarmi/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-26
+-DCMAKE_C_FLAGS=-fsigned-char -O3
+-DCMAKE_CXX_FLAGS=-fsigned-char -std=c++11 -O3
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_PLATFORM=android-26
+-DANDROID_STL=c++_static
+-DANDROID_CPP_FEATURES=exceptions rtti
+-DANDROID_ARM_MODE=arm
+-DANDROID_ARM_NEON=TRUE
+-DJUCE_BUILD_CONFIGFURATION=RELEASE
+jvmArgs : 
+

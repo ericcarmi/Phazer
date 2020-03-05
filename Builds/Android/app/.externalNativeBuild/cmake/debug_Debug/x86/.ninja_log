@@ -1,0 +1,22 @@
+# ninja log v5
+1	98	0	CMakeFiles/cpufeatures.dir/Users/ericcarmi/Library/Android/sdk/ndk-bundle/sources/android/cpufeatures/cpu-features.c.o	6e1d065d8bf3f797
+98	207	0	libcpufeatures.a	92209496ff79d193
+209	3820	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp.o	c2693ee0537c0848
+207	4385	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/Source/PluginProcessor.cpp.o	cdfdbf3cd83bc89
+208	4393	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_plugin_client_Standalone.cpp.o	bd5d8498ab243d61
+207	5604	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/Source/PluginEditor.cpp.o	cfa3604ace95324e
+3822	6222	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_cryptography.cpp.o	369adb3eba20fee7
+208	6428	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_devices.cpp.o	921677c8a7887528
+211	7586	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_utils.cpp.o	5e023434f388be2a
+207	7594	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_basics.cpp.o	f55f7beb140e26e3
+4393	8028	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_events.cpp.o	47073e15145b508d
+4386	8205	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_data_structures.cpp.o	ca30db518110187c
+209	9106	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_processors.cpp.o	5fda9b8bfd24be67
+7594	9999	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_video.cpp.o	adea411fe8d4da56
+208	10944	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_audio_formats.cpp.o	d5a2e0a1fed3440a
+6428	12190	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_gui_extra.cpp.o	b4c22a48de1f1ba5
+212	13457	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_core.cpp.o	7576596814b2cbea
+7586	13806	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_opengl.cpp.o	9e85c3443ccc2856
+5605	15152	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_graphics.cpp.o	b6f2fdc01b65e3e
+6222	20226	0	CMakeFiles/juce_jni.dir/Users/ericcarmi/Desktop/JUCE/Phazer/JuceLibraryCode/include_juce_gui_basics.cpp.o	1258e8bef3f17ec7
+20226	21336	0	../../../../build/intermediates/cmake/debug_/debug/obj/x86/libjuce_jni.so	16d19e8f34dd2f27

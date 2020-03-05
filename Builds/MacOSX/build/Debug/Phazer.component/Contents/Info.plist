@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>Phazer</string>
+			<key>factoryFunction</key>
+			<string>PhazerAUFactory</string>
+			<key>manufacturer</key>
+			<string>Phno</string>
+			<key>name</key>
+			<string>Phonotone: Phazer</string>
+			<key>subtype</key>
+			<string>Phzr</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<integer>65536</integer>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>18F132</string>
+	<key>CFBundleDisplayName</key>
+	<string>Phazer</string>
+	<key>CFBundleExecutable</key>
+	<string>Phazer</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.phonotone.Phazer</string>
+	<key>CFBundleName</key>
+	<string>Phazer</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>11C29</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>19B90</string>
+	<key>DTSDKName</key>
+	<string>macosx10.15</string>
+	<key>DTXcode</key>
+	<string>1130</string>
+	<key>DTXcodeBuild</key>
+	<string>11C29</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.11</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app/.externalNativeBuild/cmake/release_Release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app/.externalNativeBuild/cmake/release_Release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app/.externalNativeBuild/cmake/release_Release/armeabi-v7a/CMakeFiles/juce_jni.dir
+/Users/ericcarmi/Desktop/JUCE/Phazer/Builds/Android/app/.externalNativeBuild/cmake/release_Release/armeabi-v7a/CMakeFiles/cpufeatures.dir

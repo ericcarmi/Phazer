@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Phazer - Standalone Plugin", "Phazer_StandalonePlugin.vcxproj", "{025523D2-B0D4-3821-6E9E-B3708F06DD20}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730} = {4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Phazer - VST", "Phazer_VST.vcxproj", "{92963D40-5BC0-1C3F-DFD8-E48E1D24DC54}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730} = {4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Phazer - Shared Code", "Phazer_SharedCode.vcxproj", "{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92963D40-5BC0-1C3F-DFD8-E48E1D24DC54}.Debug|x64.ActiveCfg = Debug|x64
+		{92963D40-5BC0-1C3F-DFD8-E48E1D24DC54}.Debug|x64.Build.0 = Debug|x64
+		{92963D40-5BC0-1C3F-DFD8-E48E1D24DC54}.Release|x64.ActiveCfg = Release|x64
+		{92963D40-5BC0-1C3F-DFD8-E48E1D24DC54}.Release|x64.Build.0 = Release|x64
+		{025523D2-B0D4-3821-6E9E-B3708F06DD20}.Debug|x64.ActiveCfg = Debug|x64
+		{025523D2-B0D4-3821-6E9E-B3708F06DD20}.Debug|x64.Build.0 = Debug|x64
+		{025523D2-B0D4-3821-6E9E-B3708F06DD20}.Release|x64.ActiveCfg = Release|x64
+		{025523D2-B0D4-3821-6E9E-B3708F06DD20}.Release|x64.Build.0 = Release|x64
+		{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}.Debug|x64.ActiveCfg = Debug|x64
+		{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}.Debug|x64.Build.0 = Debug|x64
+		{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}.Release|x64.ActiveCfg = Release|x64
+		{4BFDF881-B6CE-81D1-F4D0-B5A8ED9F8730}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
